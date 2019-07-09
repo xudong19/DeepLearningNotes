@@ -1,16 +1,16 @@
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 ======
 
-__Publication: CVPR 2018__
+__Publication__: CVPR 2018
 
-__Affiliation: Stanford__
+__Affiliation__: Stanford
 
-__Author: [Charles R. Qi](https://web.stanford.edu/~rqi/)__
+__Author__: [Charles R. Qi](https://web.stanford.edu/~rqi/)
 
-__Group: [Leonidas Guibas Lab in Stanford](https://geometry.stanford.edu/member/guibas/)__
+__Group__: [Leonidas Guibas Lab in Stanford](https://geometry.stanford.edu/member/guibas/)
 
-__Sources: [Github](https://github.com/charlesq34/pointnet) [Paper](https://arxiv.org/abs/1612.00593) [Website](http://stanford.edu/~rqi/pointnet/)
+__Sources__: [Github](https://github.com/charlesq34/pointnet) [Paper](https://arxiv.org/abs/1612.00593) [Website](http://stanford.edu/~rqi/pointnet/) 
 
 
-__Rating: 5/5__
+__Rating__: 5/5
 
