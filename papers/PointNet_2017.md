@@ -11,7 +11,7 @@ __Group__: [Leonidas Guibas Lab in Stanford](https://geometry.stanford.edu/membe
 
 __Sources__: ([Github](https://github.com/charlesq34/pointnet)) ([Paper](https://arxiv.org/abs/1612.00593)) ([Website](http://stanford.edu/~rqi/pointnet/)) 
                 
-                   
+<br/><br/><br/>                 
                           
 __Rating__: 5/5
 
