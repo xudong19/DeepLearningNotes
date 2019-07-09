@@ -34,5 +34,5 @@ Worth-noting:
 
 Pictures:
 ------
-![alt text](../img/pointnet_net.png "Architecture")
+![Image1](../img/pointnet_net.png "Architecture")
 
