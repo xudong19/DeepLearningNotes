@@ -1,19 +1,19 @@
 [Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture](https://www.youtube.com/watch?v=VsnQf7exv5I)
 ------
 
-#### __Discription__:
+### __Discription__:
 This are the lectures given by Geoffrey Hinton and Yann LeCUn in ACM FCRC as Turing lecture in 2019.
 
 <br/> 
 
-#### __Note__:
+### __Note__:
 
 Geoffrey:
-*Using gradient is the fastest way of learning. Symbolic reasoning didn’t work because gradient is not used.
-*Now we are more ready to solve the reasoning problem. We were not ready in 1980s.
-*About vision: Current CNN relies too much on texture and color, but not geometrical relationship, which human beings relies on a lot!
-*What is we can impose coordinate frame into learning process? It can be more data-efficient. https://arxiv.org/abs/1906.06818
-*How to restore memory is very relevant to reasoning. Memory has to be stored in the neuron nets in a recursive way. This might become fashionable in the future.
+* Using gradient is the fastest way of learning. Symbolic reasoning didn’t work because gradient is not used.
+* Now we are more ready to solve the reasoning problem. We were not ready in 1980s.
+* About vision: Current CNN relies too much on texture and color, but not geometrical relationship, which human beings relies on a lot!
+* What is we can impose coordinate frame into learning process? It can be more data-efficient. https://arxiv.org/abs/1906.06818
+* How to restore memory is very relevant to reasoning. Memory has to be stored in the neuron nets in a recursive way. This might become fashionable in the future.
 
 
 Yann:
