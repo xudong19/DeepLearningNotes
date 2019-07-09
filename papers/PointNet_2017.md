@@ -28,8 +28,11 @@ Main Innovation:
 * 
 
 
-
-
 Worth-noting:
 ------
 * 
+
+Pictures:
+------
+![alt text](../img/pointnet_net.png "Architecture")
+
