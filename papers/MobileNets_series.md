@@ -77,6 +77,6 @@ Worth-noting:
 
 Pictures:
 ------
-![Image1](../img/mobilnets_v2_1.png)
-![Image2](../img/mobilenet_v2_2.png)
-![Image3](../img/mobilenet_v2_3.png)
+![Image1](../img/mobilenets_v2_1.png)
+![Image2](../img/mobilenets_v2_2.png)
+![Image3](../img/mobilenets_v2_3.png)
