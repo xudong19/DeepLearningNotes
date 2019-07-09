@@ -36,5 +36,5 @@ Worth-noting:
 
 Pictures:
 ------
-![Image1](../img/mobilenet_1.png)
+![Image1](../img/mobilenets_1.png)
 ![Image1](../img/mobilenet_2.png)
