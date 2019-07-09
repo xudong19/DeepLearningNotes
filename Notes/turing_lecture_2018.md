@@ -1,11 +1,11 @@
 [Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture](https://www.youtube.com/watch?v=VsnQf7exv5I)
 ------
 
-__Discription__:
+###### __Discription__:
 This are the lectures given by Geoffrey Hinton and Yann LeCUn in ACM FCRC as Turing lecture in 2019.
 
-
-__Note__:
+<br/> 
+###### __Note__:
 
 Geoffrey:
 *Using gradient is the fastest way of learning. Symbolic reasoning didn’t work because gradient is not used.
