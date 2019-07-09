@@ -9,7 +9,7 @@ __Author__: [Mingxing Tan](https://ai.google/research/people/105445)
 
 __Group__: Google AI
 
-__Sources__: ([Github](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet)) ([Paper](https://arxiv.org/abs/1807.11626)
+__Sources__: ([Github](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet)) ([Paper](https://arxiv.org/abs/1807.11626))
 
 <br/>    
 
