@@ -14,22 +14,21 @@ __Sources__: ([Github](https://github.com/charlesq34/pointnet)) ([Paper](https:/
 <br/>    
 
 __Rating__: 5/5
-
 <br/> 
-
 
 General Comments:
 ------
 * Beat SOTA by a big margin
-
-
-Main Innovation:
-------
 * 
 
+Main Innovations:
+------
+* 
+* 
 
 Worth-noting:
 ------
+* 
 * 
 
 Pictures:
