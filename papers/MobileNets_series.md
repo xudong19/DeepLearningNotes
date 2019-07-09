@@ -80,3 +80,50 @@ Pictures:
 ![Image1](../img/mobilenets_v2_1.png)
 ![Image2](../img/mobilenets_v2_2.png)
 ![Image3](../img/mobilenets_v2_3.png)
+
+
+
+[Searching for MobileNetV3](https://arxiv.org/abs/1905.02244)
+======
+
+__Publication__: 2019
+
+__Affiliation__: Google
+
+__Author__: Andrew Howard
+
+__Group__: Google
+
+__Sources__: ([Github](https://github.com/Bisonai/mobilenetv3-tensorflow)) ([Paper](https://arxiv.org/abs/1801.04381)) 
+<br/>    
+
+__Rating__: 5/5
+<br/> 
+
+General Comments:
+------
+* The authors made further improvements both automatically and manually
+* Automatically: used NAS for platform-level search, similar to MnasNet; used NetAdapt for layer-wise search
+* Manually: Redesigned expensive layers: initial layer and last layers. For initial layer, used 16 filters instead of 32 filters and used SWISH activation function. For last a few layers, got rid of a lot of redundant layers.
+* Also introduced Squeeze-and-Excite module
+* Inroduced the hard-swish activation function. Simple, effecient, and effective
+* The # of channels in the expension layers of each block is reduced to be 1/4 of previous value
+* It is more like a automatical search now. Some conclusion in this paper somehow contradict with previous papers, e.g. the # of channels supposed to use in the expension layer.
+
+Main Innovations:
+------
+* Same as the above
+
+
+Worth-noting:
+------
+* The h-swish is less faster than ReLu, but it can give gains of accuracy
+
+
+Pictures:
+------
+![Image3](../img/mobilenet_v3_3.png)
+![Image1](../img/mobilenet_v3_1.png)
+![Image2](../img/mobilenet_v3_2.png)
+![Image4](../img/mobilenet_v3_4.png)
+
