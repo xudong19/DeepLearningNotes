@@ -9,7 +9,7 @@ __Author__: Davi Frossard
 
 __Group__: [Raquel Urtasun in Uber ATG](https://www.cs.toronto.edu/~urtasun/index.html)
 
-__Sources__: ([Github]()) ([Paper](https://arxiv.org/abs/1905.01333)) 
+__Sources__: ([Github]) ([Paper](https://arxiv.org/abs/1905.01333)) 
 
 <br/>    
 
