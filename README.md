@@ -2,6 +2,7 @@
 
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  [[Paper](https://arxiv.org/abs/1612.00593)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/PointNet_2017.md)]
 
+
 <br/> 
 
 ### Efficient Networks
@@ -13,6 +14,14 @@
 * NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications  [[Paper](https://arxiv.org/abs/1804.03230)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/NetAdapt.md)]
 * MnasNet: Platform-Aware Neural Architecture Search for Mobile  [[Paper](https://arxiv.org/abs/1807.11626)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/MnasNet.md)]
 
+
+<br/> 
+
+### Action Recognition from Videos
+
+* An Attention-based Recurrent Convolutional Network for Vehicle Taillight Recognition  [[Paper](https://arxiv.org/abs/1906.03683)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/AttenRCN.md)]
+* DeepSignals: Predicting Intent of Drivers Through Visual Signals  [[Paper](https://arxiv.org/abs/1905.01333)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/DeepSignals.md)]
+* VideoLSTM Convolves, Attends and Flows for Action Recognition  [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314217301741)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/VideoLSTM.md)]
 
 
 <br/> 
