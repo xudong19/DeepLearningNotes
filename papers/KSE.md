@@ -9,7 +9,7 @@ __Author__: Yuchao Li
 
 __Group__: Rongrong Ji
 
-__Sources__: ([Github](https://github.com/yuchaoli/KSE)) ([Paper](https://arxiv.org/abs/1612.00593)) ([Website](http://stanford.edu/~rqi/pointnet/))
+__Sources__: ([Github](https://github.com/yuchaoli/KSE))
 
 <br/>    
 
