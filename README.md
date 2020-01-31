@@ -29,6 +29,15 @@
 
 <br/> 
 
+### Radar and Camera Fusion
+
+* Automotive Radar Dataset for Deep Learning Based 3D Object Detection  [[Paper](https://www.astyx.com/fileadmin/redakteur/dokumente/Automotive_Radar_Dataset_for_Deep_learning_Based_3D_Object_Detection.PDF)] [[Note](ToBeFilled)]
+* Deep Learning Based 3D Object Detection for Automotive Radar and Camera  [[Paper](https://www.astyx.com/fileadmin/redakteur/dokumente/Deep_Learning_Based_3D_Object_Detection_for_Automotive_Radar_and_Camera.PDF)] [[Note](ToBeFilled)]
+* Learn to Combine Modalities in Multimodal Deep Learning  [[Paper](https://arxiv.org/pdf/1805.11730.pdf)] [[Note](ToBeFilled)]
+
+
+<br/> 
+
 ### Talks
 
 * Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)]
