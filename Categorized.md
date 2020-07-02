@@ -1,6 +1,22 @@
 This is a categorized summary of the notes by the engineering fields.
 
 
+### General-DL
+* Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19<kbd>
+
+
+### Semi-supervised
+* Self-Training With Noisy Student Improves ImageNet Classification [[Note](papers/noisestudent.md)] <kbd>CVPR 20</kbd>  `Semi-supervised`
+
+
+
+### Pedestrain
+* It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
+
+* MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[Note](papers/Monoloco.md)] <kbd>ICCV 19</kbd>  `Pedestrian`
+
+* MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
+
 
 
 ### Point Clouds
@@ -40,11 +56,5 @@ This is a categorized summary of the notes by the engineering fields.
 * Deep Learning Based 3D Object Detection for Automotive Radar and Camera  [[Paper](https://www.astyx.com/fileadmin/redakteur/dokumente/Deep_Learning_Based_3D_Object_Detection_for_Automotive_Radar_and_Camera.PDF)] [[Note](ToBeFilled)]
 * Learn to Combine Modalities in Multimodal Deep Learning  [[Paper](https://arxiv.org/pdf/1805.11730.pdf)] [[Note](ToBeFilled)]
 
-
-<br/> 
-
-### Talks
-
-* Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19<kbd>
 
 
