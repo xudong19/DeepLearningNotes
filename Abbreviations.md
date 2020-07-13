@@ -9,3 +9,5 @@ Here is a list of abbreviation for reference.
 **HBOE**: Human Body Orientation Estimation
 
 **HPE**: Human Pose Estimate
+
+**MOT**: Multiple Object Tracking

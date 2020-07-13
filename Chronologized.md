@@ -1,4 +1,7 @@
 
+### 2020-07
+* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20</kbd>  `MOT`
+* CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
 
 
 

@@ -12,11 +12,12 @@ This is a categorized summary of the notes by the engineering fields.
 
 ### Pedestrain
 * It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
-
 * MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[Note](papers/Monoloco.md)] <kbd>ICCV 19</kbd>  `Pedestrian`
-
 * MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
+* CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
 
+### Tracking
+* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20</kbd>  `MOT`
 
 
 ### Point Clouds

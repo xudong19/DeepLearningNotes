@@ -8,7 +8,8 @@ The notes are categroized by the fields in [link](Categorized.md) and by the my 
 
 
 ### Papers
-
+* CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
+* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20</kbd>  `MOT`
 * Self-Training With Noisy Student Improves ImageNet Classification [[Note](papers/noisestudent.md)] <kbd>CVPR 20</kbd>  `Semi-supervised`
 * It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
 * MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
@@ -24,7 +25,7 @@ The notes are categroized by the fields in [link](Categorized.md) and by the my 
 * LeGR: Filter Pruning via Learned Global Ranking  [[Paper](https://arxiv.org/abs/1904.12368)] [[Note](./papers/LeGR.md)]
 * An Attention-based Recurrent Convolutional Network for Vehicle Taillight Recognition  [[Paper](https://arxiv.org/abs/1906.03683)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/AttenRCN.md)] <kbd>IV19</kbd>
 * DeepSignals: Predicting Intent of Drivers Through Visual Signals  [[Paper](https://arxiv.org/abs/1905.01333)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/DeepSignals.md)] <kbd>ICRA19</kbd>
-* VideoLSTM Convolves, Attends and Flows for Action Recognition  [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314217301741)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/VideoLSTM.md)] <kbd>CVIU18<kbd>
+* VideoLSTM Convolves, Attends and Flows for Action Recognition  [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314217301741)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/VideoLSTM.md)] <kbd>CVIU18</kbd>
 * Automotive Radar Dataset for Deep Learning Based 3D Object Detection  [[Paper](https://www.astyx.com/fileadmin/redakteur/dokumente/Automotive_Radar_Dataset_for_Deep_learning_Based_3D_Object_Detection.PDF)] [[Note](ToBeFilled)]
 * Deep Learning Based 3D Object Detection for Automotive Radar and Camera  [[Paper](https://www.astyx.com/fileadmin/redakteur/dokumente/Deep_Learning_Based_3D_Object_Detection_for_Automotive_Radar_and_Camera.PDF)] [[Note](ToBeFilled)]
 * Learn to Combine Modalities in Multimodal Deep Learning  [[Paper](https://arxiv.org/pdf/1805.11730.pdf)] [[Note](ToBeFilled)]
