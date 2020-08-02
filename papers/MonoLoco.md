@@ -21,11 +21,13 @@ General Comments:
 Key ideas and technical details:
 ------
 * From the human joints estimate result to final distance estimate, the paper only use simple MLP.
+* The aleatoric uncertainty is based on Lapace Distribution (L1 loss) and the epistemic uncertainty is dropout inference
+* They first project the coordinates of joints into normalized plane and translate the coordinate into the center. Then regress the norm of the projecting ray vector (\sqrt(x**2+y**2+z**2)) instead of the only the depth (the assumption is that the dimension of a person is only relevant to the norm of vector. I am not sure if there is right. My feeling is that it should be only relevant to the depth (z coordinate).)
 
 Other noteworthy points:
 ------
 * The ablation study shows Laplace loss (uncertainty-introduced L1 loss) is better than Gaussian loss (uncertainty-introduced L2 loss).
-* The paper incorporate camera intrinsics to project into normalized camera plane. Then the paper assume all persons has the same height, and thus can calculate the expected task error. (a little confused about this part.)
+* The paper incorporate camera intrinsics to project into normalized camera plane. Then the paper assume all persons has the same height, and thus can calculate the expected task error. 
 
 <!-- Screenshots:
 ------ -->

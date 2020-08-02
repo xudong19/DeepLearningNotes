@@ -1,8 +1,13 @@
 
 ### 2020-07
-* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20</kbd>  `MOT`
+* How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
+* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20?</kbd>  `MOT`
 * CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
-
+* Simple Online and Realtime Tracking with a Deep Association Metric [[Note](papers/sort.md)] <kbd>ICIP 17</kbd>  `MOT`
+* Towards Real-Time Multi-Object Tracking [[Note](papers/Towards-Realtime-MOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
+* GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with Multi-Feature Learning [[Note](papers/GNN3DMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
+* SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking [[Note](papers/SQE.md)] <kbd>CVPR 20</kbd>  `MOT`
+* In Defense of the Classification Loss for Person Re-Identification [[Note](papers/cls-reid.md)] <kbd>CVPR 19</kbd>  `Pedestrian`
 
 
 ### 2020-06

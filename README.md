@@ -6,10 +6,15 @@ The notes are categroized by the fields in [link](Categorized.md) and by the my 
 
 
 
-
 ### Papers
+* In Defense of the Classification Loss for Person Re-Identification [[Note](papers/cls-reid.md)] <kbd>CVPR 19</kbd>  `Pedestrian`
+* SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking [[Note](papers/SQE.md)] <kbd>CVPR 20</kbd>  `MOT`
+* Simple Online and Realtime Tracking with a Deep Association Metric [[Note](papers/sort.md)] <kbd>ICIP 17</kbd>  `MOT`
+* Towards Real-Time Multi-Object Tracking [[Note](papers/Towards-Realtime-MOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
+* GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with Multi-Feature Learning [[Note](papers/GNN3DMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
+* How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
 * CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
-* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20</kbd>  `MOT`
+* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20?</kbd>  `MOT`
 * Self-Training With Noisy Student Improves ImageNet Classification [[Note](papers/noisestudent.md)] <kbd>CVPR 20</kbd>  `Semi-supervised`
 * It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
 * MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`

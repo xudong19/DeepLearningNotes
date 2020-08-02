@@ -2,7 +2,7 @@ This is a categorized summary of the notes by the engineering fields.
 
 
 ### General-DL
-* Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19<kbd>
+* Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19</kbd>
 
 
 ### Semi-supervised
@@ -15,10 +15,15 @@ This is a categorized summary of the notes by the engineering fields.
 * MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[Note](papers/Monoloco.md)] <kbd>ICCV 19</kbd>  `Pedestrian`
 * MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
 * CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
+* In Defense of the Classification Loss for Person Re-Identification [[Note](papers/cls-reid.md)] <kbd>CVPR 19</kbd>  `Pedestrian`
 
 ### Tracking
-* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20</kbd>  `MOT`
-
+* How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
+* Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20?</kbd>  `MOT`
+* Simple Online and Realtime Tracking with a Deep Association Metric [[Note](papers/sort.md)] <kbd>ICIP 17</kbd>  `MOT`
+* Towards Real-Time Multi-Object Tracking [[Note](papers/Towards-Realtime-MOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
+* GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with Multi-Feature Learning [[Note](papers/GNN3DMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
+* SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking [[Note](papers/SQE.md)] <kbd>CVPR 20</kbd>  `MOT`
 
 ### Point Clouds
 
@@ -46,7 +51,7 @@ This is a categorized summary of the notes by the engineering fields.
 
 * An Attention-based Recurrent Convolutional Network for Vehicle Taillight Recognition  [[Paper](https://arxiv.org/abs/1906.03683)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/AttenRCN.md)] <kbd>IV19</kbd>
 * DeepSignals: Predicting Intent of Drivers Through Visual Signals  [[Paper](https://arxiv.org/abs/1905.01333)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/DeepSignals.md)] <kbd>ICRA19</kbd>
-* VideoLSTM Convolves, Attends and Flows for Action Recognition  [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314217301741)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/VideoLSTM.md)] <kbd>CVIU18<kbd>
+* VideoLSTM Convolves, Attends and Flows for Action Recognition  [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314217301741)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/VideoLSTM.md)] <kbd>CVIU18</kbd>
 
 
 <br/> 

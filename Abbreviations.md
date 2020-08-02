@@ -11,3 +11,5 @@ Here is a list of abbreviation for reference.
 **HPE**: Human Pose Estimate
 
 **MOT**: Multiple Object Tracking
+
+**ReID**: Re-identification
