@@ -24,7 +24,7 @@
 
 <br/> 
 
-### before 2020-06 (casual notes, less organized)
+### before 2020-06 (more casual, less organized)
 
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications  [[Paper](https://arxiv.org/abs/1704.04861)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/MobileNets_series.md#mobilenets-efficient-convolutional-neural-networks-for-mobile-vision-applications)]
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks  [[Paper](https://arxiv.org/abs/1801.04381)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/MobileNets_series.md#mobilenetv2-inverted-residuals-and-linear-bottlenecks)]

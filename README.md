@@ -1,7 +1,7 @@
 This repo contains a collection of my person notes mainly about academic papers in deep learning field. It is inspired by [Patrick LLGC](https://github.com/patrick-llgc/Learning-Deep-Learning)
 
 
-The notes are categroized by the fields in [link](Categorized.md) and by the my chronolgical order of my note-taking time in [link](Chronologized.md). The abbreviations are be found in [link](Abbreviations.md) 
+The notes are categroized by the fields in [Categorized](Categorized.md) and by the my chronolgical order of my reading time in [Chronologized](Chronologized.md). The abbreviations are be found in [Abbreviations](Abbreviations.md) 
 
 
 
