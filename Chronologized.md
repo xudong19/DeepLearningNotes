@@ -1,4 +1,10 @@
 
+### 2020-08
+* RetinaTrack: Online Single Stage Joint Detection and Tracking [[Note](papers/RetinaTrack.md)] <kbd>CVPR 20</kbd>  `MOT`
+* Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
+* A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
+
+
 ### 2020-07
 * How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
 * Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20?</kbd>  `MOT`
@@ -13,11 +19,8 @@
 ### 2020-06
 
 * Self-Training With Noisy Student Improves ImageNet Classification [[Note](papers/noisestudent.md)] <kbd>CVPR 20</kbd>  `Semi-supervised`
-
 * It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
-
 * MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[Note](papers/Monoloco.md)] <kbd>ICCV 19</kbd>  `Pedestrian`
-
 * MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
 
 

@@ -7,7 +7,7 @@ This is a categorized summary of the notes by the engineering fields.
 
 ### Semi-supervised
 * Self-Training With Noisy Student Improves ImageNet Classification [[Note](papers/noisestudent.md)] <kbd>CVPR 20</kbd>  `Semi-supervised`
-
+* Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
 
 
 ### Pedestrain
@@ -24,6 +24,8 @@ This is a categorized summary of the notes by the engineering fields.
 * Towards Real-Time Multi-Object Tracking [[Note](papers/Towards-Realtime-MOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
 * GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with Multi-Feature Learning [[Note](papers/GNN3DMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
 * SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking [[Note](papers/SQE.md)] <kbd>CVPR 20</kbd>  `MOT`
+* RetinaTrack: Online Single Stage Joint Detection and Tracking [[Note](papers/RetinaTrack.md)] <kbd>CVPR 20</kbd>  `MOT`
+* A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
 
 ### Point Clouds
 

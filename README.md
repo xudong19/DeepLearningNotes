@@ -7,6 +7,9 @@ The notes are categroized by the fields in [Categorized](Categorized.md) and by 
 
 
 ### Papers
+* A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
+* Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
+* RetinaTrack: Online Single Stage Joint Detection and Tracking [[Note](papers/RetinaTrack.md)] <kbd>CVPR 20</kbd>  `MOT`
 * In Defense of the Classification Loss for Person Re-Identification [[Note](papers/cls-reid.md)] <kbd>CVPR 19</kbd>  `Pedestrian`
 * SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking [[Note](papers/SQE.md)] <kbd>CVPR 20</kbd>  `MOT`
 * Simple Online and Realtime Tracking with a Deep Association Metric [[Note](papers/sort.md)] <kbd>ICIP 17</kbd>  `MOT`
