@@ -1,4 +1,4 @@
-[Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://arxiv.org/pdf/2004.01888.pdf) [CVPR 20]
+[Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection](https://arxiv.org/pdf/1912.02424.pdf) [CVPR 20]
 ---------------	
 
 __TL;DR__: This paper digged into the performance gap between anchor-free method (concretely [FCOS](https://arxiv.org/pdf/1904.01355.pdf)) and anchor-based method ([RetinaNet](https://arxiv.org/pdf/1708.02002.pdf)). The key finding is that after fixing all other control variables the same, the performance gap essentially comes from the different definitions of positive and negative samples in training. Inspired of the finding, the paper proposed a new adaptive training sample selection (ATSS) mechanism to further boost the performance.
