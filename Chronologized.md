@@ -1,8 +1,9 @@
 
 ### 2020-08
-* RetinaTrack: Online Single Stage Joint Detection and Tracking [[Note](papers/RetinaTrack.md)] <kbd>CVPR 20</kbd>  `MOT`
-* Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
+* Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
 * A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
+* Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
+* RetinaTrack: Online Single Stage Joint Detection and Tracking [[Note](papers/RetinaTrack.md)] <kbd>CVPR 20</kbd>  `MOT`
 
 
 ### 2020-07

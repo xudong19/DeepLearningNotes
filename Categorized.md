@@ -10,12 +10,9 @@ This is a categorized summary of the notes by the engineering fields.
 * Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
 
 
-### Pedestrain
-* It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
-* MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[Note](papers/Monoloco.md)] <kbd>ICCV 19</kbd>  `Pedestrian`
-* MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
-* CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
-* In Defense of the Classification Loss for Person Re-Identification [[Note](papers/cls-reid.md)] <kbd>CVPR 19</kbd>  `Pedestrian`
+### Object Detection
+* Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
+
 
 ### Tracking
 * How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
@@ -31,6 +28,13 @@ This is a categorized summary of the notes by the engineering fields.
 
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  [[Paper](https://arxiv.org/abs/1612.00593)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/PointNet_2017.md)] [CVPR2018]
 
+
+### Pedestrain
+* It’s Not All About Size: On the Role of Data Properties in Pedestrian Detection [[Note](papers/Its_Not_All_About_Size_On_the_Role_of_Data.md)] <kbd>ECCVW 18</kbd>  `Pedestrian`
+* MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[Note](papers/Monoloco.md)] <kbd>ICCV 19</kbd>  `Pedestrian`
+* MEBOW: Monocular Estimation of Body Orientation In the Wild [[Note](papers/MEBOW.md)] <kbd>CVPR 20</kbd>  `Pedestrian`
+* CrowdHuman: A Benchmark for Detecting Human in a Crowd [[Note](papers/CrowdHuman.md)] <kbd>ArXiv 18</kbd>  `Pedestrian`
+* In Defense of the Classification Loss for Person Re-Identification [[Note](papers/cls-reid.md)] <kbd>CVPR 19</kbd>  `Pedestrian`
 
 <br/> 
 
