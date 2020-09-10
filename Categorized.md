@@ -2,6 +2,7 @@ This is a categorized summary of the notes by the engineering fields.
 
 
 ### General-DL
+* Object Detection as a Machine Learning Problem [[Note](lectures/rethink_OD_girshick.md)] <kbd>ECCVW 20</kbd>  `OD`
 * Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19</kbd>
 
 
@@ -12,6 +13,7 @@ This is a categorized summary of the notes by the engineering fields.
 
 ### Object Detection
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
+* FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 
 
 ### Tracking

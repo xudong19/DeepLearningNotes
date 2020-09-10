@@ -1,5 +1,7 @@
 
 ### 2020-08
+* Object Detection as a Machine Learning Problem [[Note](lectures/rethink_OD_girshick.md)] <kbd>ECCVW 20</kbd>  `OD`
+* FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
 * A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
 * Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`

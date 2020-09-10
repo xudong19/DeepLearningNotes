@@ -7,6 +7,7 @@ The notes are categroized by the fields in [Categorized](Categorized.md) and by 
 
 
 ### Papers
+* FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
 * A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
 * Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
@@ -49,7 +50,7 @@ The notes are categroized by the fields in [Categorized](Categorized.md) and by 
 <br/> 
 
 ### Talks
-
-* Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19</kbd> `general-DL`
+* Object Detection as a Machine Learning Problem [[Note](lectures/rethink_OD_girshick.md)] <kbd>ECCVW 20</kbd>  `OD`
+* Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](lectures/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19</kbd> `general-DL`
 
 
