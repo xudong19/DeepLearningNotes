@@ -10,6 +10,7 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 <br/> 
 
 ### Papers
+* SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
 * A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
