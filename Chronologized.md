@@ -1,4 +1,8 @@
 
+### 2020-09
+* SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
+
+
 ### 2020-08
 * Object Detection as a Machine Learning Problem [[Note](lectures/rethink_OD_girshick.md)] <kbd>ECCVW 20</kbd>  `OD`
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`

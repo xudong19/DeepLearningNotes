@@ -17,6 +17,7 @@ This is a categorized summary of the notes by the engineering fields.
 
 
 ### Tracking
+* SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
 * How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
 * Tracking Objects as Points [[Note](papers/CenterTrack.md)] <kbd>ECCV 20?</kbd>  `MOT`
 * Simple Online and Realtime Tracking with a Deep Association Metric [[Note](papers/sort.md)] <kbd>ICIP 17</kbd>  `MOT`

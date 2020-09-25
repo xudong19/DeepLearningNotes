@@ -2,7 +2,7 @@
 ---------------	
 
 __TL;DR__: The paper investigated the inferior performance of MOT algorithms when the detection and ReID are combined in
-one stage. The proposed reason for the inferior performance is the mismatch between the anchor position on which the embedding feature is regressed on and the true object position to which the embedding feature corresponds to. The proposed solution is to use anchor-free detection architecture with higher feature map resolution .
+one stage. The proposed reason for the inferior performance is the mismatch between the anchor position on which the embedding feature is regressed on and the true object position to which the embedding feature corresponds to. The proposed solution is to use anchor-free detection architecture with higher feature map resolution. As of Sept 2020, this is the SOTA across many MOT datasets
 
 __keywords__: MOT
 
