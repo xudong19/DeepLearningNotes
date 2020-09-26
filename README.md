@@ -10,6 +10,8 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 <br/> 
 
 ### Papers
+* Hidden Technical Debt in Machine Learning Systems [[Note](papers/MLStack.md)] <kbd>NIPS 15</kbd>  `Production`
+* The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction [[Note](papers/MLStack.md)] <kbd>IEEE BigData 17</kbd>  `Production`
 * SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`

@@ -1,6 +1,11 @@
 This is a categorized summary of the notes by the engineering fields.
 
 
+### Production
+* Hidden Technical Debt in Machine Learning Systems [[Note](papers/MLStack.md)] <kbd>NIPS 15</kbd>  `Production`
+* The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction [[Note](papers/MLStack.md)] <kbd>IEEE BigData 17</kbd>  `Production`
+
+
 ### General-DL
 * Object Detection as a Machine Learning Problem [[Note](lectures/rethink_OD_girshick.md)] <kbd>ECCVW 20</kbd>  `OD`
 * Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19</kbd>

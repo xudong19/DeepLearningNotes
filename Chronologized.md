@@ -1,6 +1,8 @@
 
 ### 2020-09
 * SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
+* Hidden Technical Debt in Machine Learning Systems [[Note](papers/MLStack.md)] <kbd>NIPS 15</kbd>  `Production`
+* The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction [[Note](papers/MLStack.md)] <kbd>IEEE BigData 17</kbd>  `Production`
 
 
 ### 2020-08
