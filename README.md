@@ -10,7 +10,9 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 <br/> 
 
 ### Papers
-* Hidden Technical Debt in Machine Learning Systems [[Note](papers/MLStack.md)] <kbd>NIPS 15</kbd>  `Production`
+* Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection [[Note](papers/GFocal.md)] <kbd>NeurIPS 20</kbd>  `OD`
+* TIDE: A General Toolbox for Identifying Object Detection Errors [[Note](papers/tide.md)] <kbd>ECCV 20</kbd>  `OD`
+* Hidden Technical Debt in Machine Learning Systems [[Note](papers/MLStack.md)] <kbd>NeurIPS 15</kbd>  `Production`
 * The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction [[Note](papers/MLStack.md)] <kbd>IEEE BigData 17</kbd>  `Production`
 * SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
