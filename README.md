@@ -10,6 +10,8 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 <br/> 
 
 ### Papers
+* YOLACT++: Better Real-time Instance Segmentation [[Note](papers/YOLACT.md)] <kbd>PAML 20</kbd>  `IS`
+* YOLACT: Real-time Instance Segmentation [[Note](papers/YOLACT.md)] <kbd>ICCV 19</kbd>  `IS`
 * Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection [[Note](papers/GFocal.md)] <kbd>NeurIPS 20</kbd>  `OD`
 * TIDE: A General Toolbox for Identifying Object Detection Errors [[Note](papers/tide.md)] <kbd>ECCV 20</kbd>  `OD`
 * Hidden Technical Debt in Machine Learning Systems [[Note](papers/MLStack.md)] <kbd>NeurIPS 15</kbd>  `Production`

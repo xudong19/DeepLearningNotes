@@ -23,6 +23,11 @@ This is a categorized summary of the notes by the engineering fields.
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 
 
+### Instance Segmentation
+* YOLACT++: Better Real-time Instance Segmentation [[Note](papers/YOLACT.md)] <kbd>PAML 20</kbd>  `IS`
+* YOLACT: Real-time Instance Segmentation [[Note](papers/YOLACT.md)] <kbd>ICCV 19</kbd>  `IS`
+
+
 ### Tracking
 * SoDA: Multi-Object Tracking with Soft Data Association [[Note](papers/SoDA.md)] <kbd>arXiv 20</kbd>  `MOT`
 * How To Train Your Deep Multi-Object Tracker [[Note](papers/DeepMOT.md)] <kbd>CVPR 20</kbd>  `MOT`
