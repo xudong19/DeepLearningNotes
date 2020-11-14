@@ -1,4 +1,11 @@
 
+
+### 2020-11
+* Center-based 3D Object Detection and Tracking][[Note](papers/centerpoint.md)] <kbd>CVPR 20</kbd>  `PC`
+* 3DSSD: Point-based 3D Single Stage Object Detector][[Note](papers/3DSSD.md)] <kbd>CVPR 20</kbd>  `PC`
+* PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud][[Note](papers/PointRCNN.md)] <kbd>CVPR 19</kbd>  `PC`
+
+
 ### 2020-10
 * SOLO: Segmenting Objects by Locations][[Note](papers/SOLO.md)] <kbd>ECCV 20</kbd>  `IS`
 * SOLOv2: Dynamic, Faster and Stronger][[Note](papers/SOLO.md)] <kbd>NeurIPS 20</kbd>  `IS`

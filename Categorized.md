@@ -42,7 +42,9 @@ This is a categorized summary of the notes by the engineering fields.
 * A Simple Baseline for Multi-Object Tracking [[Note](papers/FairMOT.md)] <kbd>ECCV 20?</kbd>  `MOT`
 
 ### Point Clouds
-
+* Center-based 3D Object Detection and Tracking][[Note](papers/centerpoint.md)] <kbd>CVPR 20</kbd>  `PC`
+* 3DSSD: Point-based 3D Single Stage Object Detector][[Note](papers/3DSSD.md)] <kbd>CVPR 20</kbd>  `PC`
+* PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud][[Note](papers/PointRCNN.md)] <kbd>CVPR 19</kbd>  `PC`
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  [[Paper](https://arxiv.org/abs/1612.00593)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/papers/PointNet_2017.md)] [CVPR2018]
 
 
