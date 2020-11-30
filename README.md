@@ -10,6 +10,7 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 <br/> 
 
 ### Papers
+* Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding][[Note](papers/Center3D.md)] <kbd>arXiv 20</kbd>  `Mono3D`
 * Center-based 3D Object Detection and Tracking][[Note](papers/centerpoint.md)] <kbd>CVPR 20</kbd>  `PC`
 * 3DSSD: Point-based 3D Single Stage Object Detector][[Note](papers/3DSSD.md)] <kbd>CVPR 20</kbd>  `PC`
 * PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud][[Note](papers/PointRCNN.md)] <kbd>CVPR 19</kbd>  `PC`

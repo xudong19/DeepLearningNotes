@@ -15,3 +15,5 @@ Here is a list of abbreviation for reference.
 **ReID**: Re-identification
 
 **PC**: Point Cloud
+
+**Mono3D**: Monocular 3D Object Detection 

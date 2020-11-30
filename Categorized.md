@@ -23,6 +23,10 @@ This is a categorized summary of the notes by the engineering fields.
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
 
 
+### Monocular 3D
+* Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding][[Note](papers/Center3D.md)] <kbd>arXiv 20</kbd>  `Mono3D`
+
+
 ### Instance Segmentation
 * SOLO: Segmenting Objects by Locations][[Note](papers/SOLO.md)] <kbd>ECCV 20</kbd>  `IS`
 * SOLOv2: Dynamic, Faster and Stronger][[Note](papers/SOLO.md)] <kbd>NeurIPS 20</kbd>  `IS`
