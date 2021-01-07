@@ -1,4 +1,17 @@
 
+### 2021-01
+* Visual Odometry Revisited: What Should Be Learnt?][[Note](papers/DF-VO.md)] <kbd>ICRA 20</kbd>  `VO`
+* OneNet: Towards End-to-End One-Stage Object Detection][[Note](papers/OneNet.md)] <kbd>arXiv 20</kbd>  `OD`
+* Sparse R-CNN: End-to-End Object Detection with Learnable Proposals][[Note](papers/SparseR-CNN.md)] <kbd>arXiv 20</kbd>  `Transformer`
+* Rethinking Transformer-based Set Prediction for Object Detection][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
+* End-to-End Object Detection with Fully Convolutional Network][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
+* Toward Transformer-Based Object Detection][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
+* End-to-end Lane Shape Prediction with Transformers][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
+* DETR for Pedestrian Detection][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
+* End-to-End Video Instance Segmentation with Transformers][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
+* InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling][[Note](papers/InfoFocus.md)] <kbd>ECCV 20</kbd>  `PC`
+* BoxInst: High-Performance Instance Segmentation with Box Annotations][[Note]] <kbd>ArXiv 20</kbd>  `PC`
+
 
 ### 2020-11
 * Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding][[Note](papers/Center3D.md)] <kbd>arXiv 20</kbd>  `Mono3D`

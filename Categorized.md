@@ -27,6 +27,10 @@ This is a categorized summary of the notes by the engineering fields.
 * Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding][[Note](papers/Center3D.md)] <kbd>arXiv 20</kbd>  `Mono3D`
 
 
+### MonoDepth and Visual Odometry
+* Visual Odometry Revisited: What Should Be Learnt?][[Note](papers/DF-VO.md)] <kbd>ICRA 20</kbd>  `VO`
+
+
 ### Instance Segmentation
 * SOLO: Segmenting Objects by Locations][[Note](papers/SOLO.md)] <kbd>ECCV 20</kbd>  `IS`
 * SOLOv2: Dynamic, Faster and Stronger][[Note](papers/SOLO.md)] <kbd>NeurIPS 20</kbd>  `IS`

@@ -17,3 +17,5 @@ Here is a list of abbreviation for reference.
 **PC**: Point Cloud
 
 **Mono3D**: Monocular 3D Object Detection 
+
+**VO**: Visual Odometry 
