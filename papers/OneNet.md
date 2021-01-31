@@ -15,6 +15,7 @@ General Comments:
 ------
 * The misalignment between label assignment and network optimization objective is the root cause for the need of dense prediction.
 * The regression tends to lead to a smoothing effect, which might account for the continuous distribution from totally negative prediction to the best positive prediction. While Adding the cls cost can enable a step function alike effect to change from negative samples to positive samples. This step function allows the realization of predictions in a sparse manner.
+* The gt boxes and pred boxes matching algorithm is a straightforward greedy matching. Each gt box will pick the pred box with smallest cost.
 
 Key ideas and technical details:
 ------

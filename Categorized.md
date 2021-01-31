@@ -21,7 +21,9 @@ This is a categorized summary of the notes by the engineering fields.
 * TIDE: A General Toolbox for Identifying Object Detection Errors [[Note](papers/tide.md)] <kbd>ECCV 20</kbd>  `OD`
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[Note](papers/ATSS.md)] <kbd>CVPR 20</kbd>  `OD`
 * FCOS: Fully Convolutional One-Stage Object Detection [[Note](papers/FCOS.md)] <kbd>ICCV 19</kbd>  `OD`
-
+* OneNet: Towards End-to-End One-Stage Object Detection][[Note](papers/OneNet.md)] <kbd>arXiv 20</kbd>  `OD`
+* Sparse R-CNN: End-to-End Object Detection with Learnable Proposals][[Note](papers/SparseRCNN.md)] <kbd>arXiv 20</kbd>  `OD`
+* End-to-End Object Detection with Fully Convolutional Network][[Note](papers/DeFCN.md)] <kbd>arXiv 20</kbd>  `OD`
 
 ### Monocular 3D
 * Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding][[Note](papers/Center3D.md)] <kbd>arXiv 20</kbd>  `Mono3D`

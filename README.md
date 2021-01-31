@@ -12,9 +12,9 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 ### Papers
 * Visual Odometry Revisited: What Should Be Learnt?][[Note](papers/DF-VO.md)] <kbd>ICRA 20</kbd>  `VO`
 * OneNet: Towards End-to-End One-Stage Object Detection][[Note](papers/OneNet.md)] <kbd>arXiv 20</kbd>  `OD`
-* Sparse R-CNN: End-to-End Object Detection with Learnable Proposals][[Note](papers/SparseR-CNN.md)] <kbd>arXiv 20</kbd>  `Transformer`
+* Sparse R-CNN: End-to-End Object Detection with Learnable Proposals][[Note](papers/SparseRCNN.md)] <kbd>arXiv 20</kbd>  `OD`
+* End-to-End Object Detection with Fully Convolutional Network][[Note](papers/DeFCN.md)] <kbd>arXiv 20</kbd>  `OD`
 * Rethinking Transformer-based Set Prediction for Object Detection][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
-* End-to-End Object Detection with Fully Convolutional Network][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
 * Toward Transformer-Based Object Detection][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
 * End-to-end Lane Shape Prediction with Transformers][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
 * DETR for Pedestrian Detection][[Note]] <kbd>arXiv 20</kbd>  `Transformer`
