@@ -11,6 +11,13 @@ This is a categorized summary of the notes by the engineering fields.
 * Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture  [[Link](https://www.youtube.com/watch?v=VsnQf7exv5I)] [[Note](https://github.com/xudong19/DeepLearningNotes/blob/master/notes/turing_lecture_2018.md)] <kbd>ACM Turing Lecture19</kbd>
 
 
+### Planning
+* A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [[Note]] <kbd>IEEE T-IV 16</kbd>  `Planning`
+* End-To-End Interpretable Neural Motion Planner [[Note]] <kbd>CVPR 19</kbd>  `Planning`
+* Hierarchical Reinforcement Learning for Self-Driving Decision-Making without Reliance on Labeled Driving Data [[Note]] <kbd>IET ITS 20</kbd>  `Planning`
+* Perceive, Predict, and Plan: Safe Motion Planning Through Interpretable Semantic Representations [[Note]] <kbd>ECCV 20</kbd>  `Planning`
+
+
 ### Semi-supervised
 * Self-Training With Noisy Student Improves ImageNet Classification [[Note](papers/noisestudent.md)] <kbd>CVPR 20</kbd>  `Semi-supervised`
 * Data Distillation: Towards Omni-Supervised Learning [[Note](papers/DataDistillationFAIR.md)] <kbd>CVPR 18</kbd>  `Semi-supervised`
