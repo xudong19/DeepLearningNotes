@@ -19,3 +19,5 @@ Here is a list of abbreviation for reference.
 **Mono3D**: Monocular 3D Object Detection 
 
 **VO**: Visual Odometry 
+
+**SSL**: Self-Supervised Learning

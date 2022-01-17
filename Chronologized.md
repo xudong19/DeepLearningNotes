@@ -1,4 +1,11 @@
 
+### 2022-01
+* Perceiver: General Perception with Iterative Attention][[Note](papers/Perceiver.md)] <kbd>Deepmind</kbd>  `Transformer`
+* Perceiver IO: A General Architecture for Structured Inputs & Outputs][[Note](papers/Perceiver.md)] <kbd>Deepmind</kbd>  `Transformer`
+
+
+
+
 ### 2021-01
 * Visual Odometry Revisited: What Should Be Learnt?][[Note](papers/DF-VO.md)] <kbd>ICRA 20</kbd>  `VO`
 * OneNet: Towards End-to-End One-Stage Object Detection][[Note](papers/OneNet.md)] <kbd>arXiv 20</kbd>  `OD`
