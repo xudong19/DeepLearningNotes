@@ -1,8 +1,32 @@
 
-### 2022-01
-* Perceiver: General Perception with Iterative Attention][[Note](papers/Perceiver.md)] <kbd>Deepmind</kbd>  `Transformer`
-* Perceiver IO: A General Architecture for Structured Inputs & Outputs][[Note](papers/Perceiver.md)] <kbd>Deepmind</kbd>  `Transformer`
+### 2024-03
+* HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction [[Note](papers/HiVT.md)] [CVPR 22](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf) `Motion Prediction` 
+* Query-Centric Trajectory Prediction [[Note](papers/QCNet.md)] [CVPR 23](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf) `Motion Prediction` 
+* QCNeXt: A Next-Generation Framework For Joint Multi-Agent Trajectory Prediction [[Note](papers/QCNeXt.md)] [arXiv 23](https://arxiv.org/pdf/2306.10508.pdf) `Motion Prediction` 
 
+### 2024-02
+* Motion Transformer with Global Intention Localization and Local Movement Refinement [[Note]()] [NeurIPS 22](https://arxiv.org/pdf/2209.13508.pdf) <kbd>Max Planck</kbd> `Motion Prediction` 
+* MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying [[Note]()] [PAMI 24](https://arxiv.org/pdf/2306.17770.pdf) <kbd>Max Planck</kbd> `Motion Prediction` 
+
+
+### 2024-01
+* VectorMapNet: End-to-end Vectorized HD Map Learning [[Note]()] [arXiv 23](https://arxiv.org/pdf/2206.08920.pdf) <kbd>MARS Lab</kbd> `Road Topology` 
+* MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
+ [[Note]()] [ICLR 23](https://arxiv.org/pdf/2208.14437.pdf) <kbd>Horizon</kbd> `Road Topology`
+* TopoNet: Graph-based Topology Reasoning for Driving Scenes [[Note]()] [arXiv 23](https://arxiv.org/pdf/2304.05277.pdf) <kbd>OpenDriveLab</kbd> `Road Topology`
+* TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning [[Note]()] [ICLR 24](https://arxiv.org/pdf/2310.06753.pdf) `Road Topology`
+* Large Trajectory Models are Scalable Motion Predictors and Planners [[Note]()] [arXiv 23](https://arxiv.org/pdf/2310.19620.pdf) `Planner Model`
+
+
+
+### 2023-12
+* A Survey on Multimodal Large Language Models for Autonomous Driving [[Note]()] [arXiv](https://arxiv.org/pdf/2311.12320.pdf)
+* OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping [[Note]()] [NerIPS 23](https://arxiv.org/pdf/2304.10440.pdf)
+
+
+### 2022-01
+* Perceiver: General Perception with Iterative Attention[[Note](papers/Perceiver.md)] <kbd>Deepmind</kbd>  `Transformer`
+* Perceiver IO: A General Architecture for Structured Inputs & Outputs[[Note](papers/Perceiver.md)] <kbd>Deepmind</kbd>  `Transformer`
 
 
 

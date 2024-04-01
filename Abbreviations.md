@@ -21,3 +21,11 @@ Here is a list of abbreviation for reference.
 **VO**: Visual Odometry 
 
 **SSL**: Self-Supervised Learning
+
+**LLM** Large Language Model
+
+**LVM** Language Vision Model
+
+**VFM** Vision Foundation Model
+
+**TP** Trajectory prediction

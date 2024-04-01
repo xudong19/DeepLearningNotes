@@ -1,13 +1,13 @@
-[Title](https://arxiv.org/abs/1612.00593) [CVPR 18]
+[Title](https://arxiv.org/abs/123456) [CVPR XXX]
 ---------------	
 
 __TL;DR__: blablablablabla
 
-__keywords__: point-cloud
+__keywords__: bla-bla
 
-__Resources__: [[Github](https://github.com/charlesq34/pointnet)] 
+__Resources__: [[Github](blabla)] 
 
-__Other Notable Info__: [Charles R. Qi](https://web.stanford.edu/~rqi/)
+__Other Notable Info__: [blabla](blabla)
 
 <br/>    
 
@@ -28,5 +28,5 @@ Other noteworthy points:
 
 Screenshots:
 ------
-![Image1](../img/pointnet_net.png "Architecture")
+<!-- ![Image1](../img/pointnet_net.png "Architecture") -->
 
