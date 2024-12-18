@@ -1,3 +1,9 @@
+### 2024-12
+* DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Note](papers/DiffusionDrive.md)] [CVPR]
+* EMMA: End-to-End Multimodal Model for Autonomous Driving [[Note](papers/EMMA.md)]
+* Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation [[Note](papers/Hydra-MDP.md)]
+* Behavior Transformers: Cloning k modes with one stone [[Note](papers/behavior_transformers.md)]
+
 
 ### 2024-03
 * HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction [[Note](papers/HiVT.md)] [CVPR 22](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf) `Motion Prediction` 
