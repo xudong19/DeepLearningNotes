@@ -1,5 +1,15 @@
+### 2025-01
+* DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[Note](papers/DexCap.md)]
+* Learning to Transfer Human Hand Skills for Robot Manipulations
+* CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation [[Note](papers/CyberDemo.md)]
+* DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity 
+* ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Note](papers/ReKep.md)]
+* VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [[Note](papers/VoxPoser.md)]
+* Dreamitate: Real-World Visuomotor Policy Learning via Video Generation [[Note](papers/dreamitate.md)]
+
+
 ### 2024-12
-* DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Note](papers/DiffusionDrive.md)] [CVPR]
+* DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Note](papers/DiffusionDrive.md)]
 * EMMA: End-to-End Multimodal Model for Autonomous Driving [[Note](papers/EMMA.md)]
 * Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation [[Note](papers/Hydra-MDP.md)]
 * Behavior Transformers: Cloning k modes with one stone [[Note](papers/behavior_transformers.md)]

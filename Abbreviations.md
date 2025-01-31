@@ -29,3 +29,17 @@ Here is a list of abbreviation for reference.
 **VFM** Vision Foundation Model
 
 **TP** Trajectory prediction
+
+**DH** Dexterous Hands
+
+**IL** Imitation Learning
+
+**Sim** Simulation
+
+**S2R** Sim2Real
+
+**MoCap** Motion Capture
+
+**EMF** electromagnetic field
+
+

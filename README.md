@@ -10,6 +10,17 @@ In the note [ToLearn](ToLearn.md), I gather up all the useful resources and inte
 <br/> 
 
 ### Papers
+
+#### 2025-01
+* DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[Note](papers/DexCap.md)]
+* Learning to Transfer Human Hand Skills for Robot Manipulations
+* CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation [[Note](papers/CyberDemo.md)]
+* DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity 
+* ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[Note](papers/ReKep.md)]
+* VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [[Note](papers/VoxPoser.md)]
+* Dreamitate: Real-World Visuomotor Policy Learning via Video Generation [[Note](papers/dreamitate.md)]
+
+#### 2019 - 2024
 * Visual Odometry Revisited: What Should Be Learnt?][[Note](papers/DF-VO.md)] <kbd>ICRA 20</kbd>  `VO`
 * OneNet: Towards End-to-End One-Stage Object Detection][[Note](papers/OneNet.md)] <kbd>arXiv 20</kbd>  `OD`
 * Sparse R-CNN: End-to-End Object Detection with Learnable Proposals][[Note](papers/SparseRCNN.md)] <kbd>arXiv 20</kbd>  `OD`
