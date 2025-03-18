@@ -1,4 +1,4 @@
-[Title](https://arxiv.org/abs/123456) [CVPR XXX]
+[Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/pdf/2402.16796) [RSS 2024]
 ---------------	
 
 __TL;DR__: blablablablabla

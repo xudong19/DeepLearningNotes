@@ -1,7 +1,7 @@
 [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation ](https://arxiv.org/pdf/2403.07788) [RSS 2024]
 ---------------	
 
-__TL;DR__: blablablablabla
+<!-- __TL;DR__: blablablablabla -->
 
 __keywords__: IL, 
 

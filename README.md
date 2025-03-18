@@ -7,9 +7,23 @@ The notes are categroized by the fields in [Categorized](Categorized.md) and by 
 In the note [ToLearn](ToLearn.md), I gather up all the useful resources and interesting materials that I plan to study up later.
 
 
+### ToLearn
+TeleOp related papers
+How locomotion retargeting is done?
+Imitate from human data (MoCap) paper
+
+
 <br/> 
 
 ### Papers
+
+#### 2025-03
+* Learning to Transfer Human Hand Skills for Robot Manipulations [[Note](papers/From_Mocap_to_Robot_Hand.md)]
+
+#### 2025-02
+* GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators [[Note](papers/GELLO.md)]
+* Expressive Whole-Body Control for Humanoid Robots [[Note](papers/expressive-humanoid.md)]
+
 
 #### 2025-01
 * DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[Note](papers/DexCap.md)]
