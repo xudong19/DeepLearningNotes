@@ -16,8 +16,14 @@ Imitate from human data (MoCap) paper
 <br/> 
 
 ### Papers
+#### 2025-04
+* Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm [[Note](papers/GeoRt.md)]
+* DEXTERITYGEN: Foundation Controller for Unprecedented Dexterity [[Note](papers/DexGen.md)]
+* ALOHA Unleashed: A Simple Recipe for Robot Dexterity [[Note](papers/aloha_unleashed.md)]
 
 #### 2025-03
+* TacCap: A Wearable FBG-Based Tactile Sensor for Seamless Human-to-Robot Skill Transfer[[Note](papers/TacCap.md)]
+* Grasp as You Say: Language-guided Dexterous Grasp Generation [[Note](papers/DexGYSGrasp.md)]
 * Learning to Transfer Human Hand Skills for Robot Manipulations [[Note](papers/From_Mocap_to_Robot_Hand.md)]
 
 #### 2025-02
