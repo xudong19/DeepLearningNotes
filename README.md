@@ -16,6 +16,16 @@ Imitate from human data (MoCap) paper
 <br/> 
 
 ### Papers
+
+#### 2025-05
+* Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization
+* Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation
+* DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies
+* Robot Learning with Super-Linear Scaling
+* ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
+* RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning
+* Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins
+
 #### 2025-04
 * Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm [[Note](papers/GeoRt.md)]
 * DEXTERITYGEN: Foundation Controller for Unprecedented Dexterity [[Note](papers/DexGen.md)]

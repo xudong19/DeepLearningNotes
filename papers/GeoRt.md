@@ -43,6 +43,8 @@ Key ideas and technical details:
 
 My thoughts
 ------
+* human fingurs are coupled in some way as well. Shall we train a network to train all the fingers
+as a whole?
 * All the losses are like self-consistency losses, unsupervised, but correspondance just emerges. 
 * Adding some paired GT data and applying SFT might can help further. We can collect some calibration
 gestures, like finger fully open, fully close, finger touching, etc.
