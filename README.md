@@ -17,14 +17,36 @@ Imitate from human data (MoCap) paper
 
 ### Papers
 
+#### 2025-06
+CVPR25
+* MANIPTRANS: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning
+* Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
+* UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping
+* DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation
+* DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness
+* 3D-MVP: 3D Multiview Pretraining for Manipulation
+* ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping
+* OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints
+
+TeleOp
+* DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation
+* A Wearable Robotic Hand for Hand-over-Hand Imitation Learning
+* Global-Local Interface with Selective Direct and Singularity-Avoiding Motion Mapping for Intuitive
+Teleoperation
+
+
 #### 2025-05
-* Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization
-* Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation
-* DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies
-* Robot Learning with Super-Linear Scaling
-* ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning
-* RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning
-* Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins
+RSS25
+* Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization [[Note](papers/.........)]
+* Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation [[Note](papers/.........)]
+* DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies [[Note](papers/CASHER.md)]
+* CASHER: Robot Learning with Super-Linear Scaling [[Note](papers/.........)]
+* ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[Note](papers/ROBOVERSE.md)]
+* RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning [[Note](papers/RLDG.md)]
+* Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins [[Note](papers/prompting-with-the-future.md)]
+* SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[Note](papers/SERL.md)]
+* Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments
+* Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy
 
 #### 2025-04
 * Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm [[Note](papers/GeoRt.md)]
