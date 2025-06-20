@@ -19,7 +19,7 @@ Imitate from human data (MoCap) paper
 
 #### 2025-06
 CVPR25
-* MANIPTRANS: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning
+* MANIPTRANS: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning [[Note](papers/ManipTrans.md)]
 * Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
 * UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping
 * DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation
@@ -29,18 +29,23 @@ CVPR25
 * OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints
 
 TeleOp
-* DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation
+* DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[Note](papers/DexUMI.md)]
 * A Wearable Robotic Hand for Hand-over-Hand Imitation Learning
 * Global-Local Interface with Selective Direct and Singularity-Avoiding Motion Mapping for Intuitive
 Teleoperation
 
+Transfer human data to robot data
+* Object-Centric Dexterous Manipulation from Human Motion Data
+
+Train from human data
+* VLMimic: Multimodal Language Models are Visual Imitation Learner for Fine-grained Actions
 
 #### 2025-05
 RSS25
 * Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization [[Note](papers/.........)]
 * Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation [[Note](papers/.........)]
-* DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies [[Note](papers/CASHER.md)]
-* CASHER: Robot Learning with Super-Linear Scaling [[Note](papers/.........)]
+* DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies [[Note](papers/......)]
+* CASHER: Robot Learning with Super-Linear Scaling [[Note](papers/CASHER.md))]
 * ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[Note](papers/ROBOVERSE.md)]
 * RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning [[Note](papers/RLDG.md)]
 * Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins [[Note](papers/prompting-with-the-future.md)]
