@@ -16,6 +16,30 @@ Imitate from human data (MoCap) paper
 <br/> 
 
 ### Papers
+* DexVLG: Dexterous Vision-Language-Grasp Model at Scale [[Note](papers/DexVLG.md)]
+* DREAMGEN: Unlocking Generalization in Robot Learning through Video World Models [[Note](papers/DREAMGEN.md)]
+* GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[Note](papers/GR00T_N1.md)]
+* LATENT ACTION PRETRAINING FROM VIDEOS [[Note](papers/LAPA.md)]
+* Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos [[Note](papers/VPT.md)]
+* Touch begins where vision ends: Generalizable policies for contact-rich manipulation [[Note](papers/ViTaL.md)]
+* SOLVING RUBIK’S CUBE WITH A ROBOT HAND [[Note](papers/solving-rubiks-cube.md)]
+* Twisting Lids Off with Two Hands [[Note](papers/twisting-lids.md)]
+
+#### sim2real paper
+* DeXtreme: Transfer of Agile In-hand Manipulation from Simulation to Reality
+* Local Policies Enable Zero-shot Long-horizon Manipulation
+* IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality
+* AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries
+
+#### 2025-07
+* DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation [[Note](papers/DexWrist.md)]
+* using apple vision pro to train and control robots
+* Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
+* ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation
+* From Simple to Complex Skills: The Case of In-Hand Object Reorientation 
+  - hierarchical policy learning
+* Touch begins where vision ends: Generalizable policies for contact-rich manipulation
+* paper list: https://github.com/YanjieZe/Paper-List/blob/main/topics/dex_manipulation.md
 
 #### 2025-06
 CVPR25
@@ -36,9 +60,13 @@ Teleoperation
 
 Transfer human data to robot data
 * Object-Centric Dexterous Manipulation from Human Motion Data
+* Humanoid Policy ~ Human Policy
 
 Train from human data
 * VLMimic: Multimodal Language Models are Visual Imitation Learner for Fine-grained Actions
+
+Simulation RL
+DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands
 
 #### 2025-05
 RSS25
@@ -52,6 +80,7 @@ RSS25
 * SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[Note](papers/SERL.md)]
 * Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments
 * Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy
+* DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation
 
 #### 2025-04
 * Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm [[Note](papers/GeoRt.md)]
