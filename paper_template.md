@@ -21,7 +21,12 @@ Key ideas and technical details:
 * 
 * 
 
-Other noteworthy points:
+My thoughts:
+------
+* 
+* 
+
+Questions:
 ------
 * 
 * 
