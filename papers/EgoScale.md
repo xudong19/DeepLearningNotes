@@ -20,17 +20,17 @@ General Comments:
 * the post-training is to improve the task performance.
 * the wrist camera for dexterous hands is very important
 * the data receipe: 
- - pretraining: very large amount (20K hours) pretraining data 
- - Mid-training: aligned 30 human demo data + 5 teleop robot data per task, and learn for 5 tasks
- - post training: 100 teleop robot data per task, and learn for 5 tasks
+    - pretraining: very large amount (20K hours) pretraining data 
+    - Mid-training: aligned 30 human demo data + 5 teleop robot data per task, and learn for 5 tasks
+    - post training: 100 teleop robot data per task, and learn for 5 tasks
 
 * when adapted to new skills (never seen in mid-training)
- - 1 teleop robot data + 100 human demo data
+    - 1 teleop robot data + 100 human demo data
 
 Key ideas and technical details:
 ------
 * transfer to new embodiment (G1 with 7 DoF tri-finger hand)
- - human data pretraining + G1 data in mid-training and post training is better than without human data pretraining. But the exact the amount of data used is not disclosed in the paper.
+    - human data pretraining + G1 data in mid-training and post training is better than without human data pretraining. But the exact the amount of data used is not disclosed in the paper.
 
 Other noteworthy points:
 ------
@@ -44,6 +44,14 @@ Other comments:
 * large amount, scaling ego centric data for pre-training is the new trend in 2026 and onward.
 * the pretraining data does not have wrist camera, what if we add it as well?
 * the mid-training require human wear gloves and vive tracker, and mimic the robot actions, which is unnatural and demanding for human data collector. Is it really needed? Can we remove the mid-training by simply adding more high quality robot trajectory data?
+
+
+My thought:
+------
+* This paper marks a paradim shift in the foundation model training:
+    - wrist and finger movement is all you need. The embodied joint data like robot arm is less important
+    - pretraining only requires very low precision data, but in a lot more magnitude. No special hardware is needed.
+    - In this paper, they use teleop data and aligned data gloves and for mid-training and post training, but those can be improved by our UMI data, which is higher quality, while still scablable.
 
 Screenshots:
 ------
