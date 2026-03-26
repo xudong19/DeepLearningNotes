@@ -7,13 +7,39 @@ The notes are categroized by the fields in [Categorized](Categorized.md) and by 
 In the note [ToLearn](ToLearn.md), I gather up all the useful resources and interesting materials that I plan to study up later.
 
 
+### To write blogs
+* VLANeXt: Recipes for Building Strong VLA Models
+* A Systematic Study of Data Modalities and Strategies for Co-training Large Behavior Models for Robot Manipulation
+* Ψ0 : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation
+
+
 ### ToLearn
+
+world model
+bytedance vla model
+
+
+
 TeleOp related papers
 How locomotion retargeting is done?
 Imitate from human data (MoCap) paper
 
 
 <br/> 
+
+#### 2026-03
+* Ψ0 : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[Note](papers/Psi0.md)]
+* HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations [[Note](papers/HoMMI.md)]
+* World Action Models are Zero-shot Policies [[Note](papers/dreamzero0.md)]
+* DO WORLD ACTION MODELS GENERALIZE BETTER THAN VLAS? A ROBUSTNESS STUDY
+
+
+#### 2026-01
+* SPIDER: Scalable Physics-Informed Dexterous Retargeting
+
+#### 2025-11
+* Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation [[Note](papers/unified-force.md)]
+
 
 ### Papers
 * DexVLG: Dexterous Vision-Language-Grasp Model at Scale [[Note](papers/DexVLG.md)]
