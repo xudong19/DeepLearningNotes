@@ -27,6 +27,16 @@ Imitate from human data (MoCap) paper
 
 <br/> 
 
+#### 2026-05
+* EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World [[Note](papers/egoverse.md)]
+
+#### 2026-04
+* HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning
+* BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes
+* π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities [[Note](papers/Pi0.7.md)]
+* Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions
+
+
 #### 2026-03
 * Ψ0 : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[Note](papers/Psi0.md)]
 * HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations [[Note](papers/HoMMI.md)]
