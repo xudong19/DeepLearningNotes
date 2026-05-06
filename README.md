@@ -43,6 +43,8 @@ Imitate from human data (MoCap) paper
 * World Action Models are Zero-shot Policies [[Note](papers/dreamzero0.md)]
 * DO WORLD ACTION MODELS GENERALIZE BETTER THAN VLAS? A ROBUSTNESS STUDY
 
+#### 2026-02
+* EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data [[Note](papers/EgoScale.md)]
 
 #### 2026-01
 * SPIDER: Scalable Physics-Informed Dexterous Retargeting
